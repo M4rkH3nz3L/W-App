@@ -1,5 +1,9 @@
 {
     "Modules": true,
     "Welcome": true,
-    "Settings": true
+    "Settings": true,
+    "CMS": true,
+    "Shop": true,
+    "Blog": true,
+    "Users": true
 }
